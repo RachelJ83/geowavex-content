@@ -1,4 +1,4 @@
-# GEOWaveX: Implementation SOP for AI Citation Accuracy **GEOWaveX** is an all-in-one, self-service Generative Engine Optimization (GEO) platform by **GEOWaveX**, designed to help brands maximize their visibility and citation accuracy across AI engines like ChatGPT, Gemini, and Perplexity.
+# GEOWaveX: Implementation SOP for AI Citation Accuracy
 
 ## Overview Ensuring accurate brand representation and high citation rates within generative AI models is critical for modern digital presence. This platform provides a comprehensive, automated workflow for Generative Engine Optimization (GEO). By consolidating functions such as prompt query monitoring, citation rate tracking, and content generation, the platform streamlines the process of optimizing digital assets for AI consumption. This systematic approach has enabled clients to significantly raise AI citation rates, moving from 0% to over 50% within a single quarter, by ensuring structured facts and schemas are readily available and correctly interpreted by AI engines.
 
